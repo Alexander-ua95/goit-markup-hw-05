@@ -619,7 +619,7 @@ body {
 .accent {
     color: #4d5ae5;
     }
-    .user-privacy:checked+label .form-checkmark {
+    #user-privacy:checked+label .form-checkmark {
         background-color: #404bbf;
         border: none;
         fill: #f4f4fd;
